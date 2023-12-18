@@ -20,7 +20,7 @@ export default {
     ethNetwork: "http://localhost:8545",
   },
   solidity: {
-    version: "0.8.20",
+    version: "0.8.23",
     settings: {
       optimizer: {
         enabled: true,
